@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MrArchivist]]></title>
+        <description><![CDATA[MrArchivist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 15:08:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Privilege: The Left's Original Sin]]></title>
+            <description><![CDATA[<article><h1>Privilege: The Left's Original Sin</h1><p>The concepts of Original Sin and privilege are identical except that they operate in different moral universes. In familiar religions, Original Sin is something you're born with. It's something you can't escape. It's something you can't really do anything about - except be ashamed. It's something you should confess and try to cleanse yourself of.</p><img src="http://plaintext.allthink.com/i/E8EF7EB38AFBD1143A33474E7DA7F048DA5F81E90A3C0D0D698EDC8690E6730E/800x600.crop.jpg"></article>]]></description>
+            <link>https://www.allthink.com/1284035</link>
+            <guid isPermaLink="false">edffe982-42c9-40c8-96d1-e948512e2769</guid>
+            <pubDate>Wed, 15 Jun 2016 15:07:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
