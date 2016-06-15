@@ -1,0 +1,14 @@
+layout_spectrum: 0.3264207378961146
+typography_spectrum: 0.553471467224881
+color:
+  brandStrength: 0.09615326020866632
+  lightness: 0.6579884195234627
+  saturation: 0.30205949512310326
+  rhythmicContrast: 0.10158232389949262
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: MrArchivist
