@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[MrArchivist]]></title>
         <description><![CDATA[MrArchivist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrarchivist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 15:08:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 15:08:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrarchivist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Privilege: The Left's Original Sin]]></title>
-            <description><![CDATA[<article><h1>Privilege: The Left's Original Sin</h1><p>The concepts of Original Sin and privilege are identical except that they operate in different moral universes. In familiar religions, Original Sin is something you're born with. It's something you can't escape. It's something you can't really do anything about - except be ashamed. It's something you should confess and try to cleanse yourself of.</p><img src="http://plaintext.allthink.com/i/E8EF7EB38AFBD1143A33474E7DA7F048DA5F81E90A3C0D0D698EDC8690E6730E/800x600.crop.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Privilege: The Left's Original Sin</h1><p>The concepts of Original Sin and privilege are identical except that they operate in different moral universes. In familiar religions, Original Sin is something you're born with. It's something you can't escape. It's something you can't really do anything about - except be ashamed. It's something you should confess and try to cleanse yourself of.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3011a35309ba3f663d2ab91dced9448e/noop.jpg?input=http%3A%2F%2Fplaintext.allthink.com%2Fi%2FE8EF7EB38AFBD1143A33474E7DA7F048DA5F81E90A3C0D0D698EDC8690E6730E%2F800x600.crop.jpg"></article>]]></description>
             <link>https://www.allthink.com/1284035</link>
             <guid isPermaLink="false">edffe982-42c9-40c8-96d1-e948512e2769</guid>
+            <pubDate>Wed, 15 Jun 2016 15:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thiel vs Gawker: Why a Defensive Media is the Real Threat to Free Speech]]></title>
+            <description><![CDATA[<article><h1>Thiel vs Gawker: Why a Defensive Media is the Real Threat to Free Speech</h1><p>In March this year, Terry Bollea (Hulk Hogan), was awarded $140 million in damages in an invasion of privacy lawsuit against Gawker Media. Gawker Media is an online media company owned by Nick Denton, based in New York City and incorporated in the Cayman Islands.</p><img src="http://quillette.com/wp-content/uploads/2016/06/1068x711xScreen-Shot-2016-06-01-at-9.20.15-pm.png.pagespeed.ic.9TZdeV96oT.jpg"></article>]]></description>
+            <link>http://quillette.com/2016/06/01/thiel-vs-gawker-why-a-defensive-media-is-the-real-threat-to-free-speech/</link>
+            <guid isPermaLink="false">f0995a45-188b-466e-bdcd-86ad701d3263</guid>
             <pubDate>Wed, 15 Jun 2016 15:07:47 GMT</pubDate>
         </item>
     </channel>
